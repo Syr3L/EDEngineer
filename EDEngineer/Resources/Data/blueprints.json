@@ -28910,6 +28910,32 @@
     "Grade": 1
   },
   {
+    "Type": "Sub-Surface Displacement Munitions",
+    "Name": "None",
+    "Engineers": [
+      "@Synthesis"
+    ],
+    "Ingredients": [
+      {
+        "Name": "Nickel",
+        "Size": 3
+      },
+      {
+        "Name": "Carbon",
+        "Size": 3
+      },
+      {
+        "Name": "Sulphur",
+        "Size": 3
+      },
+      {
+        "Name": "Tungsten",
+        "Size": 2
+      },
+    ],
+    "Grade": 1
+  },
+  {
     "Type": "Limpets",
     "Name": "4 Limpets, Cargo Hold Required",
     "Engineers": [
@@ -29218,6 +29244,36 @@
       }
     ],
     "Grade": 3
+  },
+  {
+    "Type": "Seismic Charge Munitions",
+    "Name": "None",
+    "Engineers": [
+      "@Synthesis"
+    ],
+    "Ingredients": [
+      {
+        "Name": "Iron",
+        "Size": 2
+      },
+      {
+        "Name": "Nickel",
+        "Size": 2
+      },
+      {
+        "Name": "Sulphur",
+        "Size": 2
+      },
+      {
+        "Name": "Phosphorus",
+        "Size": 3
+      },
+      {
+        "Name": "Mercury",
+        "Size": 1
+      },
+    ],
+    "Grade": 1
   },
   {
     "Type": "Explosive Munitions",
